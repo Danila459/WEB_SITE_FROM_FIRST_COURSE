@@ -1,0 +1,33 @@
+body, .specialised, .specialised__item-text, .footer__link, .footer__copyright
+{
+    background: #111;
+    color: #f4f4f4;
+}
+
+.header, .reviews, .advantages,.advantages-box__title, .advantages-box__text
+{
+    background: #373737;
+    color: #f4f4f4;
+}
+
+.nav__item
+{
+    color: #f4f4f4;
+    background: #373737;
+}
+
+.nav__item:hover, .nav__item_active
+{
+    background: #444;
+}
+
+.theme-button
+{
+    color: #f4f4f4;
+    background: #4f7faf;
+}
+
+.theme-button:hover
+{
+    background: #6f9fcf;
+}
